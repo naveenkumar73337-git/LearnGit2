@@ -1,3 +1,10 @@
 line 1
 line 2
+<<<<<<< HEAD
 line master3
+=======
+line dev1
+line dev2
+>>>>>>> de
+
+new push 
